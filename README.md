@@ -34,7 +34,6 @@ WhatsApp users around the world can continue to hope for more exciting and funct
 
 ## References
 
-- [whatsapp.com](whatsapp.com)
 - [messengerize.com](https://messengerize.com)
 
 ## License
